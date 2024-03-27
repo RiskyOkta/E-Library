@@ -10,7 +10,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/FianGumilar/Inventory-System project-name
+  git clone https://github.com/RiskyOkta/E-Library.git
 ```
 
 Go to the project directory
