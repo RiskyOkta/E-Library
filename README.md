@@ -10,7 +10,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/RiskyOkta/E-Library.git
+  git clone https://github.com/RiskyOkta/E-Library
 ```
 
 Go to the project directory
