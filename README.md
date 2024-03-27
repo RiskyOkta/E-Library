@@ -35,7 +35,7 @@ Go to the project directory
 ```
 
 ```bash
-    php artisan artisan migrate:fresh --seed
+    php artisan migrate:fresh --seed
 ```
 
 ```bash
